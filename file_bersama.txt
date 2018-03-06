@@ -1,1 +1,2 @@
 ini punya master
+fitur4 masukin data
