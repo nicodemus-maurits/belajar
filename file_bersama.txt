@@ -1,2 +1,3 @@
 ini punya master
 fitur4 masukin data
+ini punya fitur5
